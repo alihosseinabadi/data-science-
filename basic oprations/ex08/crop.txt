@@ -1,0 +1,6 @@
+ivan.ivanov@corp.com
+maria.petrova@corp.com
+peter.smirnov@corp.com
+anna.sidorova@corp.com
+john.doe@corp.com
+sarah.connor@corp.com

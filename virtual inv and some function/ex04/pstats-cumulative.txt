@@ -1,0 +1,15 @@
+Sat Sep 27 18:12:14 2025    profilingResults.cprof
+
+         411086 function calls (411004 primitive calls) in 1.545 seconds
+
+   Ordered by: cumulative time
+   List reduced from 696 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      7/1    0.000    0.000    1.545    1.545 {built-in method builtins.exec}
+        1    0.001    0.001    1.545    1.545 <string>:1(<module>)
+        1    0.000    0.000    1.544    1.544 /mnt/c/Users/hosse/school21/DS_Bootcamp.Day03.ID_886513-1/src/ex04/financial_enhanced.py:4(parser_yahoo)
+        1    0.000    0.000    1.140    1.140 /mnt/c/Users/hosse/school21/DS_Bootcamp.Day03.ID_886513-1/src/unellase/lib/python3.12/site-packages/urllib3/_request_methods.py:69(request)
+        1    0.000    0.000    1.140    1.140 /mnt/c/Users/hosse/school21/DS_Bootcamp.Day03.ID_886513-1/src/unellase/lib/python3.12/site-packages/urllib3/_request_methods.py:147(request_encode_url)
+
+

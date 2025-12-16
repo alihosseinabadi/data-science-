@@ -1,0 +1,4 @@
+id,created_at,name,has_test,alternate_url
+789,2024-01-15T14:15:00+0300,ML Engineer,true,https://example.com/789
+123,2024-01-15T12:00:00+0300,Junior Data Scientist,true,https://example.com/123
+456,2024-01-10T09:30:00+0300,Senior Data Scientist,false,https://example.com/456
